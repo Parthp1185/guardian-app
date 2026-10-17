@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorServiceName">#F44336</color>
+    <color name="colorPhoneNumber">#111111</color>
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="primary_light">#C5CAE9</color>
+    <color name="accent">#2196F3</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="black">#000000</color>
+    <color name="accent_red">#F44336</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="stroke_light">#E0E0E0</color>
+    <color name="background">#F5F5F5</color>
+
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background_light">#F5F5F5</color>
+    <color name="card_stroke">#E0E0E0</color>
+
+    <color name="serviceColorPrimary">#E53935</color>
+    <color name="serviceColorPrimaryDark">#B71C1C</color>
+    <color name="serviceColorAccent">#D32F2F</color>
+    <color name="colorEmergency">#FF5252</color>
+    <color name="colorPriorityBackground">#FFEBEE</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorBackground">#FFFFFF</color>
+</resources>
